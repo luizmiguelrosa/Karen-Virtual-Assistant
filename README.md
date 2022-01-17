@@ -3,12 +3,12 @@ Karen was created in 2017 in pascal and over time it was translated into Python 
 
 Its main focus is to meet people's urgent needs, such as: mathematical calculations, internet searches, checking the time or date, among others...
 
-<br><br>
+<br>
 
 # Technologies
 <li>Speech Recognition - <a href="https://alphacephei.com/vosk/">Vosk</a></l1>
 <li>Voice Synthesizer - <a href="https://github.com/nateshmbhat/pyttsx3">Pyttsx3</a></li>
 <li>Natural Language Processing - <a href="https://github.com/Masso13/NLP-Classifier">NLP Classifier</a></li>
 
-<br><br>
+<br>
 

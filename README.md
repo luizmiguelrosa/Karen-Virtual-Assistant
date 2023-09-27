@@ -8,7 +8,7 @@ Its main focus is to meet people's urgent needs, such as: mathematical calculati
 # 📖 Technologies
 <li>Speech Recognition - <a href="https://alphacephei.com/vosk/">Vosk</a></l1>
 <li>Voice Synthesizer - <a href="https://github.com/nateshmbhat/pyttsx3">Pyttsx3</a></li>
-<li>Natural Language Processing - <a href="https://github.com/Masso13/NLP-Classifier">NLP Classifier</a></li>
+<li>Natural Language Processing - <a href="https://github.com/luizmiguelrosa/NLP-Classifier">NLP Classifier</a></li>
 
 <br>
 
